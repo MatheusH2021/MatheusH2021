@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Matheus!👋
 
-- 🌱 Sou estudante do curso tecnico de Desenvolvimento de Sistemas.
+- 🌱 Técnico em Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/MatheusH2021">
